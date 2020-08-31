@@ -34,3 +34,21 @@ html {
 }
 
 .reuse-title { }
+
+#card-row { 
+    padding:200px;
+}
+
+#break { height:250px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+         }
+
+.super-container { display:flex;
+    align-items: center;
+    justify-content: center;}
+
+.super-container-1 {display:flex;
+    align-items: center;
+    justify-content: center; }
